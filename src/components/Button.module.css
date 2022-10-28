@@ -1,0 +1,17 @@
+.button {
+  width: 100px;
+  height: 40px;
+}
+
+.primary {
+  background: purple;
+}
+.secondary {
+  background: orange;
+}
+.primary {
+  background: red;
+}
+.primary {
+  background: green;
+}
